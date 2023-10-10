@@ -33,12 +33,10 @@ void DrawMain()
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -44, kColorRed);
     Sleep(0.5f);
-    DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
-<<<<<<< HEAD
-    
+    DrawText("Hello, world!!", -12*14/2, -66, kColorGray);    
     // ソフィてえてえ
-=======
+
     //井上は負け犬
->>>>>>> 3a4adc614c7a2db5feecee1bfa4e93253cd53af0
+
 }
 
