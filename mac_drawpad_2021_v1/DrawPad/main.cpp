@@ -35,8 +35,8 @@ void DrawMain()
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);    
     // ソフィてえてえ
-
-    //井上は負け犬
+    // ダンベル12kg上げたい
+    //井上は勝ち組
 
 }
 
