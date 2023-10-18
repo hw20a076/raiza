@@ -37,6 +37,7 @@ void DrawMain()
     // ソフィてえてえ
     // ダンベル12kg上げたい
     //井上は勝ち組
+    DrawText("Hello, world!!", -12*14/2, 66, kColorDarkBlue);
 
 }
 
